@@ -1,4 +1,4 @@
-# wear.ly
+# Wearly Shop
 
 Collaborative pet projects and practical experience.
 
